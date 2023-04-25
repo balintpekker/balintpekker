@@ -5,7 +5,6 @@ I'm a highly competent [Acquia Certified Drupal Developer](https://certification
 
 [Contributing to Drupal 10](https://twitter.com/kispeki/status/1603556134232760320) was a great pleasure, just as much as being part of this awesome team!
 
-- :blue_book: I'm currently learning AWS, Vue.js and Drupal and my current goal is to pass the Backend Specialist Exam in the near future.
 - :dancers: I’m looking to collaborate on new modules/solutions helping developers in their daily routine in any way.
 - :briefcase: I'm currently working on a Drupal project with an international team.
 - :speech_balloon: Ask me about anything related to Symfony or Drupal and I'll try my best to answer.
